@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #6c757d;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.container-one h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
+.carousel-item h4 {
+    text-align: center;
+}
+.options-container ul {
+    list-style-type: none; 
+}
+.options-container ul li {
+    padding: 1rem 0; 
+}
+.options-container {
+    margin-left: 6rem;
+    margin-top: 4rem;
+}
+.text-container {
+    margin-top: 4rem;
+    margin-right: 4rem;
+    margin-bottom: 4rem;
+}
+#optionsMobile {
+    display: none;
+}
+.options ul {
+    list-style-type: none; 
+    text-align: center;
+}
+.option-group .group-item, .list-mob .list-m {
+    border: 0.10rem solid #ccc; 
+    border-radius: 0.25rem; 
+    padding: 1rem;
+    margin-bottom: 0.25rem; 
+}
